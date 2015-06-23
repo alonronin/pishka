@@ -1,0 +1,2 @@
+# pishka
+Backgammon abstract logic
